@@ -76,8 +76,7 @@ Compact Letter Display (CLD) Table:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/compact-letter-display-tukey.git
-   cd compact-letter-display-tukey
+   git https://github.com/Jabulente/Compact-Letter-Display.git
    ```
 
 2. Install dependencies:
@@ -105,3 +104,4 @@ Contributions are welcome! If you’d like to improve the workflow, add new visu
 ## 📌 License
 
 This project is licensed under the MIT License.
+
